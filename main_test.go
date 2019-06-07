@@ -1,10 +1,11 @@
 package main_test
 
 import (
+	"log"
 	"os"
 	"testing"
 
-	"."
+	"github.com/dbriesz/book-manager-api"
 )
 
 var a main.App
